@@ -23,6 +23,9 @@ class RhymersDemo {
             while (!rhymers[i].callCheck())
                 System.out.print(rhymers[i].countOut() + "  ");
             System.out.println();
+
+
+
         }
 
         System.out.println("total rejected is "
